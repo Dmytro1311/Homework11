@@ -8,8 +8,7 @@ public class AbstractLoggerConfigurationLoadTest {
 
 
     @Test
-            void validConfigPathTest()  {
-
+    void validConfigPathTest()  {
         AbstractLoggerConfigurationLoad abstractLoggerConfigurationLoad = new AbstractLoggerConfigurationLoad() {
 
             @Override
