@@ -1,7 +1,0 @@
-FILE: Loggers\\src\\main\\test\\resources\\
-
-LEVEL: DEBUG
-
-MAX-SIZE: 1000
-
-FORMAT: .txt
