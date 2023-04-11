@@ -1,0 +1,7 @@
+FILE: Loggers\\src\\main\\java\\net\\dmytro\\homework11\\logs\\
+
+LEVEL: DEBUG
+
+MAX-SIZE: 1000
+
+FORMAT: .txt
